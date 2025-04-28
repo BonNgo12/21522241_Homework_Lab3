@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageGallery</string>
+    <string name="search_hint">Search...</string>
+    <string name="recycler_view_description">List of images</string>
+</resources>
